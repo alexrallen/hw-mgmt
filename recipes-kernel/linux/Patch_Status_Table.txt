@@ -249,6 +249,7 @@ Kernel-5.10
 |0095-hwmon-mlxreg-fan-Fix-out-of-bounds-read-on-array-fan.patch         | 000cc5bc49aafc83a131bab2becf9922f5eec658   |                                                 |                                                              |
 |0096-hwmon-mlxreg-fan-Modify-PWM-connectivity-validation.patch          | b1c24237341f6fb910c6cb15489222a9f47258d6   |                                                 |                                                              |
 |0097-hwmon-mlxreg-fan-Support-distinctive-names-per-diffe.patch         | b2be2422c0c98b00f21c4331e2d9342bd58bfdba   |                                                 |                                                              | 
+|0999-TMP-SONiC-Revert-mlxsw-thermal-Fix-out-of-bounds-mem.patch         |                                            |                                                 |                                                              | 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
